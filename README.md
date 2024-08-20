@@ -1,2 +1,3 @@
 # Primer proyecto
-## ARC
+## Construcción de Software
+Autor: ARC
